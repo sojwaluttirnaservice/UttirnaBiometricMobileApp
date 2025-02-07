@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/967781_354.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.sojwaluttirnaservice.biometric"
@@ -21,14 +21,14 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/favicon.jpg"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/splash-icon.jpg",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
@@ -43,7 +43,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "1d89ed75-109f-42d2-a305-1570b97604cf"
+        "projectId": "c10e3b3f-6745-49ef-bdb5-2c3a721185ae"
       }
     }
   }
