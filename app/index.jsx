@@ -1,5 +1,5 @@
-import 'core-js';
-import 'whatwg-fetch';
+// import 'core-js';
+// import 'whatwg-fetch';
 
 import { Text, View, TextInput, StyleSheet, TouchableOpacity, ToastAndroid } from 'react-native';
 import { useForm, Controller } from 'react-hook-form';
