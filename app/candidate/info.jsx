@@ -1,3 +1,4 @@
+"use client"
 import axios from 'axios';
 import { CameraType, CameraView, useCameraPermissions } from 'expo-camera';
 import { StatusBar } from 'expo-status-bar';
